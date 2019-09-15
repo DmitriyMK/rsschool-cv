@@ -3,7 +3,6 @@
 
 ## Contact Info
 ### Contact with me via:
-* phone - +38(066) 400-34-96
 * telegram - @moskvichovDK
 * skype - alchimic2112
 * email - moskvichovdmitriy@gmail.com
@@ -47,3 +46,18 @@ if (document.documentElement.clientWidth > 768) {
 }
 ```
 
+## Experience
+Dates                             | Company              | Position
+----------------------------------| ---------------------| --------
+December, 2018 –  ;               | Siteplus;            | Frontend Developer
+February, 2018 –  December, 2018; | Push-K Solutions;    | Frontend Developer
+August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer
+April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer
+
+##  Education
+**codeacademy:** https://www.codecademy.com/users/alchimic/achievements
+**htmlacademy:** https://htmlacademy.ru/profile/id111187
+
+## English
+As EPAM Training Portal said: 
+> my current English level is A2. 
