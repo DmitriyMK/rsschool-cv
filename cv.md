@@ -1,8 +1,8 @@
 
 # Dmitriy Moskvichov
 
-## Contact Info:
-*Contact with me via:*
+## Contact Info
+### Contact with me via:
 * phone - +38(066) 400-34-96
 * telegram - @moskvichovDK
 * skype - alchimic2112
@@ -11,7 +11,7 @@
 ## Summary
 I like beauty in everything, so i like to create beautiful and friendly websites.
 My experience in created websites - 2years. 
-Some of my last project here:
+Some of my last projects here:
 * https://www.westhome.pro/
 * http://vazon.stimlex.com/
 * https://www.ogscapital.com/businesscontinuityplan/index.html
