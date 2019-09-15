@@ -47,12 +47,12 @@ if (document.documentElement.clientWidth > 768) {
 ```
 
 ## Experience
-Dates                             | Company              | Position
-:--- | :--- | :--- 
-December, 2018 –  ;               | Siteplus;            | Frontend Developer
-February, 2018 –  December, 2018; | Push-K Solutions;    | Frontend Developer
-August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer
-April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer
+| Dates                             | Company              | Position |
+| :--- | :--- | :--- 
+| December, 2018 –  ;               | Siteplus;            | Frontend Developer |
+| February, 2018 –  December, 2018; | Push-K Solutions;    | Frontend Developer |
+| August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer |
+| April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer |
 
 ##  Education
 * **codeacademy:** <a href="https://www.codecademy.com/users/alchimic/achievements" target="_blank">Codecademy</a>
