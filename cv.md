@@ -47,15 +47,17 @@ if (document.documentElement.clientWidth > 768) {
 ```
 
 ## Experience
-| Dates                             | Company              | Position           |
-|-----------------------------------|----------------------|--------------------|
-| December, 2018 –  ;               | Siteplus;            | Frontend Developer |
-| February, 2018 –  December, 2018; | Push-K Solutions;    | Frontend Developer |
-| August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer | 
-| April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer | 
+
+| Dates               | Company             | Position                                |
+|---------------------|---------------------|-----------------------------------------|
+| 12.2018 -           | Siteplus;           | Frontend Developer                      |
+| 02.2018 - 12.2018   | Push-K Solutions;   | Frontend Developer                      |
+| 08.2017 - 01.2018   | Ocean Future Studio | HTML/CSS Developer                      |
+| 04.2017 - 07.2017   | Freelance           | HTML/CSS Developer                      |
 
 
-| Dates     | Company             | Position                           |
+
+| Dates     | Company             | Position                                |
 |-----------|---------------------|-----------------------------------------|
 | Excellent | Very secure         | Criteria is met optimal                 |
 | High      | Secure              | Criteria is met                         |
