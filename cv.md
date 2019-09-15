@@ -48,15 +48,15 @@ if (document.documentElement.clientWidth > 768) {
 
 ## Experience
 Dates                             | Company              | Position
-----------------------------------| ---------------------| --------
+:--- | :--- | :--- 
 December, 2018 –  ;               | Siteplus;            | Frontend Developer
 February, 2018 –  December, 2018; | Push-K Solutions;    | Frontend Developer
 August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer
 April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer
 
 ##  Education
-* **codeacademy:** https://www.codecademy.com/users/alchimic/achievements
-* **htmlacademy:** https://htmlacademy.ru/profile/id111187
+* **codeacademy:** <a href="https://www.codecademy.com/users/alchimic/achievements" target="_blank">Codecademy</a>
+* **htmlacademy:** <a href="https://htmlacademy.ru/profile/id111187" target="_blank">HTML academy</a>
 
 ## English
 As EPAM Training Portal said: 
