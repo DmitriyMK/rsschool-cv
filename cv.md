@@ -3,18 +3,18 @@
 
 ## Contact Info
 ### Contact with me via:
-* telegram - @moskvichovDK
-* skype - alchimic2112
-* email - moskvichovdmitriy@gmail.com
+* telegram - <a href="https://teleg.run/moskvichovDK">@moskvichovDK</a> 
+* skype - <a href="skype:+alchimic2112?call">alchimic2112</a>  
+* email - <a href="mailto:moskvichovdmitriy@gmail.com">moskvichovdmitriy@gmail.com</a>   
 
 ## Summary
 I like beauty in everything, so i like to create beautiful and friendly websites.
 My experience in created websites - 2years. 
 Some of my last projects here:
-* https://www.westhome.pro/
-* http://vazon.stimlex.com/
-* https://www.ogscapital.com/businesscontinuityplan/index.html
-* https://www.great-power.com.ua
+* <a href="https://www.westhome.pro/" target="_blank">Westhome</a> 
+* <a href="http://vazon.stimlex.com/" target="_blank">Stimlex</a> 
+* <a href="https://www.ogscapital.com/businesscontinuityplan/index.html" target="_blank">OGS Capital</a> 
+* <a href="https://www.great-power.com.ua" target="_blank">Great power</a> 
 
 ## Skills
 * Technologies: HTML / CSS (SCSS/LESS/PostCSS) /JavaScript(basic) / Nunjucks / Gulp;
@@ -54,16 +54,6 @@ if (document.documentElement.clientWidth > 768) {
 | 02.2018 - 12.2018   | Push-K Solutions;   | Frontend Developer                      |
 | 08.2017 - 01.2018   | Ocean Future Studio | HTML/CSS Developer                      |
 | 04.2017 - 07.2017   | Freelance           | HTML/CSS Developer                      |
-
-
-
-| Dates     | Company             | Position                                |
-|-----------|---------------------|-----------------------------------------|
-| Excellent | Very secure         | Criteria is met optimal                 |
-| High      | Secure              | Criteria is met                         |
-| Mid       | Insufficient secure | Criteria is met partly                  |
-| Low       | Insecure            | Criteria is no met                      |
-| N/A       | Not rated           | Criteria is not available or irrelevant |
 
 ##  Education
 * **codeacademy:** <a href="https://www.codecademy.com/users/alchimic/achievements" target="_blank">Codecademy</a>
