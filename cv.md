@@ -51,8 +51,17 @@ if (document.documentElement.clientWidth > 768) {
 | :--- | :--- | :--- 
 | December, 2018 –  ;               | Siteplus;            | Frontend Developer |
 | February, 2018 –  December, 2018; | Push-K Solutions;    | Frontend Developer |
-| August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer |
-| April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer |
+| August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer | 
+| April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer| 
+
+
+| Rating    | Security            | Explanation                             |
+|-----------|---------------------|-----------------------------------------|
+| Excellent | Very secure         | Criteria is met optimal                 |
+| High      | Secure              | Criteria is met                         |
+| Mid       | Insufficient secure | Criteria is met partly                  |
+| Low       | Insecure            | Criteria is no met                      |
+| N/A       | Not rated           | Criteria is not available or irrelevant |
 
 ##  Education
 * **codeacademy:** <a href="https://www.codecademy.com/users/alchimic/achievements" target="_blank">Codecademy</a>
