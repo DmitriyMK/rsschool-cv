@@ -25,4 +25,25 @@ Some of my last projects here:
 * Soft Skills: Mature, Accurate, Quick Learner, Friendly;
 * Specialized Skills: W3C coding standards, SEO Semantic Coding, Responsive web design, Graceful degradation principle;
 
+## Code examples
+```javascript
+if (document.documentElement.clientWidth > 768) {
+  var cardWrap = document.getElementsByClassName("grid-item");
+  var cardWrap1 = document.getElementsByClassName("grid__img");
+  document.body.addEventListener("mousemove", cursorPositionHandler);
+
+  function cursorPositionHandler(e) {
+    var decimalX = e.clientX / window.innerWidth - 0.5;
+    var decimalY = e.clientY / window.innerHeight - 0.5;
+
+    TweenMax.to(cardWrap, 0.5, {
+      rotationY: 10 * decimalX,
+      rotationX: -10 * decimalY,
+      ease: Quad.easeOut,
+      transformPerspective: 1200,
+      transformOrigin: "center"
+    });
+  }
+}
+```
 
