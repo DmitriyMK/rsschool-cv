@@ -55,8 +55,8 @@ August, 2017 – January, 2018;     | Ocean Future Studio; | HTML/CSS Developer
 April, 2017 - July, 2017;         | Freelance;           | HTML/CSS Developer
 
 ##  Education
-**codeacademy:** https://www.codecademy.com/users/alchimic/achievements
-**htmlacademy:** https://htmlacademy.ru/profile/id111187
+* **codeacademy:** https://www.codecademy.com/users/alchimic/achievements
+* **htmlacademy:** https://htmlacademy.ru/profile/id111187
 
 ## English
 As EPAM Training Portal said: 
