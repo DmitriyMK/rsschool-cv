@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>theyalow</title>
+  <link rel="stylesheet" href="./fonts.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <header class="header">
+    <div class="wrapper">
+      <div class="header__box">
+        <a class="header__logo" href="./index.html">
+          <img class="header__logo-img" src="./img/icon/logo.svg" alt="theyalow" title="theyalow">
+          <h1 class="header__logo-title">theyalow</h1>
+        </a>
+
+        <nav class="header__nav nav">
+          <ul class="nav__list">
+            <li class="nav__item">
+              <a class="nav__link" href="#">
+                <img class="nav__icon" src="./img/icon/profle.svg" alt="profile">
+                <h2 class="nav__title">About Us</h2>
+              </a>
+            </li>
+
+            <li class="nav__item">
+              <a class="nav__link" href="#">
+                <img class="nav__icon" src="./img/icon/tools.svg" alt="tools">
+                <h2 class="nav__title">Services</h2>
+              </a>
+            </li>
+
+            <li class="nav__item">
+              <a class="nav__link" href="#">
+                <img class="nav__icon" src="./img/icon/mail.svg" alt="mail">
+                <h2 class="nav__title">Contact</h2>
+              </a>
+            </li>
+          </ul>
+        </nav>
+
+      </div>
+
+      <div class="slider__box">
+        <div class="slider__slide">
+          <div class="slider__video">
+            <video class="video section__video" autoplay loop playsinline poster="./img/video.jpg">
+              <source type="video/mp4" src="#">
+            </video>
+
+            <div class="slide__controls">
+              <button class="slider__volume">
+                <img src="./img/icon/volume.svg" alt="volume">
+              </button>
+              <button class="slider__play">
+                <img src="./img/icon/play.svg" alt="play">
+              </button>
+              <button class="slider__play-big">
+                <img src="./img/icon/play-video.svg" alt="play video">
+              </button>
+              <div>
+                <input class="slider__range" type="range" min="0" max="100">
+              </div>
+            </div>
+          </div>
+
+          <div class="slider__text-wrap">
+            <p class="slider__text slider__text-accent">
+              The cool
+            </p>
+            <p class="slider__text">
+              The minimal
+            </p>
+          </div>
+        </div>
+
+        <div class="slider__controls">
+          <button class="slider__left">
+            <img src="./img/icon/arr-left.svg" alt="slide to left">
+          </button>
+          <button class="slider__right">
+            <img src="./img/icon/arr-right.svg" alt="slide to right">
+          </button>
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="preferences">
+      <h2 class="offscreen">Preferences</h2>
+      <div class="wrapper">
+        <ul class="preferences__list">
+          <li class="preferences__item">
+            <div>
+              <div class="preferences__icon-wrap">
+                <img class="preferences__icon" src="./img/icon/download.svg" alt role="presentation">
+              </div>
+            </div>
+
+            <h3 class="preferences__text">better design</h3>
+          </li>
+
+          <li class="preferences__item">
+            <div class="preferences__icon-wrap">
+              <img class="preferences__icon" src="./img/icon/leaf.svg" alt role="presentation">
+            </div>
+            <h3 class="preferences__text">customise</h3>
+          </li>
+
+          <li class="preferences__item">
+            <div class="preferences__icon-wrap">
+              <img class="preferences__icon" src="./img/icon/plane.svg" alt role="presentation">
+            </div>
+            <h3 class="preferences__text">Its Free</h3>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+
+    <section class="swipe">
+      <div class="wrapper">
+        <h3 class="swipe__title">Lorem ipsum dolor sit amet</h3>
+
+        <div class="swipe__box">
+          <div class="swipe__slide swipe__slide-twice">
+            <div class="swipe__slide-left">
+              <div class="overflow__text">
+                <p class="swipe__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut</p>
+              </div>
+
+              <button class="swipe__plus">
+                <img src="./img/icon/plus.svg" alt="add text">
+              </button>
+            </div>
+
+            <div class="swipe__slide-right">
+              <div class="swipe__img-wrap">
+                <video class="swipe__video" autoplay loop playsinline poster="./img/img.jpg">
+                  <source type="video/mp4" src="#">
+                </video>
+
+                <button class="swipe__play">
+                  <img src="./img/icon/play-video.svg" alt="play">
+                </button>
+              </div>
+            </div>
+
+            <time class="swipe__date" datetime="2019-04-25">
+              <span class="swipe__date-day">25</span>
+              <span class="swipe__date-month">april</span>
+            </time>
+          </div>
+
+          <div class="swipe__slide slide-twitter">
+            <div class="swipe__img-wrap twitter">
+              <img src="./img/icon/twitter.svg" alt="twitter">
+            </div>
+
+            <div class="swipe__tweet">
+              <form action="post">
+
+                <svg class="svg_hide" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="285px" height="42px">
+                  <clipPath id="maskTweet">
+                    <path fill-rule="evenodd" opacity="0.702" fill="rgb(255, 255, 255)" d="M275.000,42.000 L20.000,42.000 C14.979,42.000 10.824,38.299 10.109,33.477 C5.309,31.524 -1.781,28.344 2.000,28.000 C7.500,27.500 10.000,20.000 10.000,20.000 L10.000,10.000 C10.000,4.477 14.477,-0.000 20.000,-0.000 L275.000,-0.000 C280.523,-0.000 285.000,4.477 285.000,10.000 L285.000,32.000 C285.000,37.523 280.523,42.000 275.000,42.000 Z" />
+                  </clipPath>
+                </svg>
+
+                <div class="tweet__send">
+                  <p>Daily Mobile UI Design Inspiration #1
+                    <span>via @cssauthor</span>
+                  </p>
+                </div>
+                <div class="tweet__send">
+                  <p>Daily Mobile UI Design Inspiration #1
+                    <span>via @cssauthor</span>
+                  </p>
+                </div>
+                <div class="tweet__send">
+                  <p>Daily Mobile UI Design Inspiration #1
+                    <span>via @cssauthor</span>
+                  </p>
+                </div>
+
+                <div class="send__tweet">
+                  <input class="twit__field" type="text">
+                  <input class="btn" type="submit" value="Tweet">
+                </div>
+
+              </form>
+            </div>
+            <span class="swipe__num">
+              22
+            </span>
+            <button class="swipe__plus">
+              <img src="./img/icon/plus.svg" alt="add text">
+            </button>
+          </div>
+
+          <div>
+            <input class="slider__range" type="range" min="0" max="100">
+          </div>
+        </div>
+
+
+      </div>
+    </section>
+
+
+    <section class="adpative">
+      <div class="wrapper">
+        <h3 class="adaptive__title">Lorem ipsum dolor sit amet</h3>
+        <div class="adaptive__box">
+          <div class="adaptive__img-wrap">
+            <img class="adaptive__img" src="./img/laptop.png" alt="laptop">
+            <img class="adaptive__img" src="./img/tablet.png" alt="tablet">
+            <img class="adaptive__img" src="./img/phone.png" alt="phone">
+
+            <img class="adaptive__img-mob" src="./img/gadget.png" alt="gadget">
+
+            <p class="adaptive__accent">Its 100% Free</p>
+          </div>
+
+          <div class="adaptive__content">
+            <ul class="adaptive__list">
+              <li class="adaptive__item">Sed ut perspiciatis unde omnis</li>
+              <li class="adaptive__item">Lorem ipsum dolor sit amet, consectetur adipisicing </li>
+              <li class="adaptive__item">Sed ut perspiciatis unde omnis</li>
+              <li class="adaptive__item">Lorem ipsum dolor sit amet, consectetur adipisicing</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrapper">
+      <a class="footer__logo" href="./index.html">
+        <img class="footer__logo-img" src="./img/icon/logo.svg" alt="theyalow" title="theyalow">
+        <p class="footer__logo-title">theyalow</p>
+      </a>
+    </div>
+  </footer>
+</body>
+
+</html>
