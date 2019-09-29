@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title>CV</title>
+		<meta name="description" content="CV"/>
+		<meta name="keywords" content=""/>
+		<meta name="msapplication-TileColor" content="#181c25"/>
+		<meta name="theme-color" content="#181c25"/>
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+
+	<body>
+		<header class="header">
+			<div class="wrapper">
+				<div class="header__box">
+					<div class="header__content">
+						<h1 class="header__title">
+						Dmitriy <br/>
+						Moskvichov
+					</h1>
+						<h3 class="header__desc">
+							<span></span>Frontend Developer</h3>
+					</div>
+					<div class="header__photo">
+						<picture>
+							<source type="image/webp" srcset="./photo.webp"/>
+							<source type="image/jpg" srcset="./photo.jpg"/>
+
+							<img class="carousel__img" src="./photo.jpg" alt="Dmitriy Moskvichov" title="Dmitriy Moskvichov"/>
+						</picture>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<main class="main">
+			<section class="intoduction">
+				<div class="wrapper">
+					<h2 class="intoduction__title">About me</h2>
+					<p class="introduction__text">
+					I like beauty in everything, so i like to create beautiful and
+					friendly websites.
+				</p>
+
+					<p class="introduction__text">
+					My experience in created websites - 2years.
+				</p>
+
+					<p class="introduction__text">
+					Some of my last projects here:
+				</p>
+
+					<ul>
+						<li>
+							<a href="https://www.westhome.pro/" target="_blank">Westhome</a>
+						</li>
+						<li>
+							<a href="http://vazon.stimlex.com/" target="_blank">Stimlex</a>
+						</li>
+						<li>
+							<a href="https://www.ogscapital.com/businesscontinuityplan/index.html" target="_blank">OGS Capital</a>
+						</li>
+						<li>
+							<a href="https://www.great-power.com.ua" target="_blank">Great power</a>
+						</li>
+					</ul>
+
+					<h3>Feel free to contact with me via:</h3>
+					<ul>
+						<li>telegram - <a href="https://teleg.run/moskvichovDK">@moskvichovDK</a>
+						</li>
+						<li>skype - <a href="skype:+alchimic2112?call">alchimic2112</a>
+						</li>
+						<li>email - <a href="mailto:moskvichovdmitriy@gmail.com">moskvichovdmitriy@gmail.com</a>
+						</li>
+					</ul>
+				</div>
+			</section>
+
+			<section class="skills">
+				<div class="wrapper">
+					<h2>Skills</h2>
+					<div class="skills__box">
+						<div class="skills__info">
+							<ul>
+								<li>
+									<strong>Technologies:</strong> HTML / CSS (SCSS/LESS/PostCSS) /JavaScript(basic) / Nunjucks / Gulp;</li>
+								<li>
+									<strong>Frameworks and Libraries:</strong> JQuery, Bootstrap3/4, Foundation(Email);</li>
+								<li>
+									<strong>Development Tools:</strong> Photoshop/Avocode, VS Code, Git;</li>
+								<li>
+									<strong>Methodology:</strong> BEM;</li>
+								<li>
+									<strong>Soft Skills:</strong> Mature, Accurate, Quick Learner, Friendly;</li>
+								<li>
+									<strong>Specialized Skills:</strong> W3C coding standards, SEO Semantic Coding, Responsive web design, Graceful degradation principle;</li>
+							</ul>
+						</div>
+
+						<div class="skills__code">
+							<h3>Example code from rotate's script:</h3>
+
+							<div>
+								<code>
+								if (document.documentElement.clientWidth > 768) { <br>
+									var cardWrap = document.getElementsByClassName("grid-item"); <br>
+									var cardWrap1 = document.getElementsByClassName("grid__img"); <br>
+									document.body.addEventListener("mousemove", cursorPositionHandler); <br>
+									<br>
+									function cursorPositionHandler(e) { <br>
+									var decimalX = e.clientX / window.innerWidth - 0.5; <br>
+									var decimalY = e.clientY / window.innerHeight - 0.5; <br>
+									<br>
+									TweenMax.to(cardWrap, 0.5, { <br>
+										rotationY: 10 * decimalX, <br>
+										rotationX: -10 * decimalY, <br>
+										ease: Quad.easeOut, <br>
+										transformPerspective: 1200, <br>
+										transformOrigin: "center" <br>
+										}); <br>
+									} <br>
+								}
+							</code>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="experience">
+				<div class="wrapper">
+					<h2>Experience</h2>
+
+					<table>
+						<tr>
+							<th>Dates</th>
+							<th>Company</th>
+							<th>Position</th>
+						</tr>
+
+						<tr>
+							<td>12.2018 -</td>
+							<td>Siteplus</td>
+							<td>Frontend Developer</td>
+						</tr>
+
+						<tr>
+							<td>02.2018 - 12.2018 </td>
+							<td>Push-K Solutions;</td>
+							<td>Frontend Developer</td>
+						</tr>
+
+						<tr>
+							<td>08.2017 - 01.2018</td>
+							<td>Ocean Future Studio</td>
+							<td>HTML/CSS Developer</td>
+						</tr>
+
+						<tr>
+							<td>04.2017 - 07.2017</td>
+							<td>Freelance</td>
+							<td>HTML/CSS Developer</td>
+						</tr>
+					</table>
+				</div>
+			</section>
+
+			<section class="education">
+				<div class="wrapper">
+					<h2 class="education__title">Education</h2>
+
+					<ul>
+						<li>
+							<a href="https://www.codecademy.com/users/alchimic/achievements" target="_blank">Codecademy</a>
+						</li>
+						<li>
+							<a href="https://htmlacademy.ru/profile/id111187" target="_blank">HTML academy</a>
+						</li>
+					</ul>
+
+					<h3>English:</h3>
+
+					<b>As EPAM Training Portal said:</b>
+
+					<blockquote>Current English level is A2.</blockquote>
+				</div>
+			</section>
+		</main>
+
+		<footer class="footer">
+			<div class="wrapper">
+				<p> There could be your advertisement  -)</p>
+			</div>
+		</footer>
+	</body>
+
+</html>
